@@ -1,4 +1,4 @@
-
+# 
 
 # 简单博客系统
 
@@ -16,6 +16,7 @@ get:
 其中pubilc和scan需要登录,若未登录会跳转到登录界面
 
 数据库
+
 post:ID,title,content,author
 
 user:username,password
